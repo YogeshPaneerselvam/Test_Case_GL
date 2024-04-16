@@ -1,0 +1,23 @@
+{
+  "theme": "DARK",
+  
+  "encoding": "utf-8",
+  
+  "protocol": "HTTPS",
+  
+  "timelineEnabled": false,
+  
+  "offlineMode": true,
+  
+  "thumbnailForBase64": false,
+  
+  "documentTitle": "Automation Report",
+  
+  "reportName": "Automation By Yogesh",
+  
+  "timeStampFormat": "MMM dd, yyyy HH:mm:ss a",
+  
+  "js": "document.getElementsByClassName('logo')[0].style.display='none';",
+  
+  "css": ".badge-primary{background-color:#ff8a07ab}"
+} 
